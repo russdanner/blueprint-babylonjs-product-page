@@ -133,7 +133,6 @@
               $field="pageSections_o"
               $containerAttributes={ "class": "" }
               $itemTag="div"
-              $indexCarryover="${index}"
               $itemAttributes={ "class": "dehydrate" }
             />
 
