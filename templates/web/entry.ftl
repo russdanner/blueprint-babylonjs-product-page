@@ -132,7 +132,7 @@
             <@crafter.renderComponentCollection
               $field="pageSections_o"
               $containerAttributes={ "class": "" }
-              itemTag="div"
+              $itemTag="div"
               $itemAttributes={ "class": "dehydrate" }
               $renderComponentArguments={ "widgetIndex": index}
             />
