@@ -132,7 +132,8 @@
             <@crafter.renderComponentCollection
               $field="pageSections_o"
               $containerAttributes={ "class": "" }
-              $itemAttributes={ "class": "" }
+              $itemElement="div"
+              $itemAttributes={ "class": "dehydrate" }
             />
 
 <!--
