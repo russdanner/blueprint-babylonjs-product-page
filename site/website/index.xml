@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-	<content-type>/page/entry</content-type>
-	<display-template>/templates/web/entry.ftl</display-template>
-	<no-template-required/>
-	<merge-strategy>inherit-levels</merge-strategy>
-	<placeInNav>false</placeInNav>
-	<file-name>index.xml</file-name>
-	<internal-name>Home</internal-name>
-	<orderDefault_f>-1</orderDefault_f>
-	<objectGroupId>8d7f</objectGroupId>
-	<objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
-	<folder-name/>
-	<createdDate>2017-01-31T16:18:14.000Z</createdDate>
-	<createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2023-02-20T04:19:05.596Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-02-20T04:19:05.596Z</lastModifiedDate_dt>
-	<disabled>false</disabled>
-	<pageSections_o item-list="true">	<item inline="true">	<key>977f224b-2487-5c61-3564-fdfe56bafbee</key>
-	<value>Interactive Product Pages</value>
-	<disableFlattening>false</disableFlattening>
-<component id="977f224b-2487-5c61-3564-fdfe56bafbee">
+  <content-type>/page/entry</content-type>
+  <display-template>/templates/web/entry.ftl</display-template>
+  <no-template-required/>
+  <merge-strategy>inherit-levels</merge-strategy>
+  <placeInNav>false</placeInNav>
+  <file-name>index.xml</file-name>
+  <internal-name>Home</internal-name>
+  <orderDefault_f>-1</orderDefault_f>
+  <objectGroupId>8d7f</objectGroupId>
+  <objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
+  <folder-name/>
+  <createdDate>2017-01-31T16:18:14.000Z</createdDate>
+  <createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
+  <lastModifiedDate>2023-02-20T04:19:05.596Z</lastModifiedDate>
+  <lastModifiedDate_dt>2023-02-20T15:05:30.123Z</lastModifiedDate_dt>
+  <disabled>false</disabled>
+  <pageSections_o item-list="true">
+    <item inline="true">
+      <key>977f224b-2487-5c61-3564-fdfe56bafbee</key>
+      <value>Interactive Product Pages</value>
+      <disableFlattening>false</disableFlattening>
+      <component id="977f224b-2487-5c61-3564-fdfe56bafbee">
         <content-type>/component/componentproductsection</content-type>
         <display-template>/templates/web/component-product-section.ftl</display-template>
         <no-template-required/>
@@ -30,31 +32,34 @@
         <folder-name/>
         <internal-name>Interactive Product Pages</internal-name>
         <sectionTitle_s>Interactive Product Pages</sectionTitle_s>
-        <sectionBody_html>&lt;p&gt;Babylon.js gives you all the power you need to create realistic interactive experiences for your product's audience. Leverage the power of 3D rendering empowered by animation, behaviors, audio, video, and a full GUI layer.&lt;/p&gt;</sectionBody_html>
+        <sectionBody_html><![CDATA[<p>Babylon.js gives you all the power you need to create realistic interactive experiences for your product's audience. Leverage the power of 3D rendering empowered by animation, behaviors, audio, video, and a full GUI layer.n</p>]]></sectionBody_html>
         <createdDate>2023-02-20T04:09:30.044Z</createdDate>
         <createdDate_dt>2023-02-20T04:09:30.044Z</createdDate_dt>
         <lastModifiedDate>2023-02-20T04:09:30.044Z</lastModifiedDate>
-        <lastModifiedDate_dt>2023-02-20T04:09:30.044Z</lastModifiedDate_dt>
+        <lastModifiedDate_dt>2023-02-20T15:05:30.123Z</lastModifiedDate_dt>
       </component>
-	</item>	<item inline="true">	<key>e193e1bf-537f-482c-8055-dc500b1d3f08</key>
-	<value>New Product Section</value>
-	<disableFlattening>false</disableFlattening>
-<component id="e193e1bf-537f-482c-8055-dc500b1d3f08">
-	<content-type>/component/componentproductsection</content-type>
-	<display-template>/templates/web/component-product-section.ftl</display-template>
-	<no-template-required/>
-	<merge-strategy>inherit-levels</merge-strategy>
-	<internal-name>New Product Section</internal-name>
-	<file-name>e193e1bf-537f-482c-8055-dc500b1d3f08.xml</file-name>
-	<createdDate_dt>2023-02-20T04:19:06.545Z</createdDate_dt>
-	<lastModifiedDate_dt>2023-02-20T04:19:06.545Z</lastModifiedDate_dt>
-	<objectId>e193e1bf-537f-482c-8055-dc500b1d3f08</objectId>
-	<sectionTitle_s>Nudif lemoleru. Wedit. Gobol. Ka buboye ru faco ca.</sectionTitle_s>
-	<sectionBody_html>&lt;p&gt;Xodawonal viw ziboduci semitabadi biluzozu jule ni wucabupeg putaheb nalacalo.&lt;/p&gt;</sectionBody_html>
-	<folder-name/>
-	<createdDate>2023-02-20T04:19:06.545Z</createdDate>
-	<lastModifiedDate>2023-02-20T04:19:06.545Z</lastModifiedDate>
-</component>
-	</item></pageSections_o>
-	<productTitle_s>eCommerce Product Demo</productTitle_s>
+    </item>
+    <item inline="true">
+      <key>e193e1bf-537f-482c-8055-dc500b1d3f08</key>
+      <value>New Product Section</value>
+      <disableFlattening>false</disableFlattening>
+      <component id="e193e1bf-537f-482c-8055-dc500b1d3f08">
+        <content-type>/component/componentproductsection</content-type>
+        <display-template>/templates/web/component-product-section.ftl</display-template>
+        <no-template-required/>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Product Section</internal-name>
+        <file-name>e193e1bf-537f-482c-8055-dc500b1d3f08.xml</file-name>
+        <createdDate_dt>2023-02-20T04:19:06.545Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-02-20T04:19:06.545Z</lastModifiedDate_dt>
+        <objectId>e193e1bf-537f-482c-8055-dc500b1d3f08</objectId>
+        <sectionTitle_s>Nudif lemoleru. Wedit. Gobol. Ka buboye ru faco ca.</sectionTitle_s>
+        <sectionBody_html>&lt;p&gt;Xodawonal viw ziboduci semitabadi biluzozu jule ni wucabupeg putaheb nalacalo.&lt;/p&gt;</sectionBody_html>
+        <folder-name/>
+        <createdDate>2023-02-20T04:19:06.545Z</createdDate>
+        <lastModifiedDate>2023-02-20T04:19:06.545Z</lastModifiedDate>
+      </component>
+    </item>
+  </pageSections_o>
+  <productTitle_s>eCommerce Product Demo</productTitle_s>
 </page>
