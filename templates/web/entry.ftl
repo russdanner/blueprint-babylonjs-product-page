@@ -114,8 +114,7 @@
             <div class="headerContent">
                 <a href="https://www.babylonjs.com/">
                   <img src="/static-assets/app/babylonLogo_48px.svg">
-                </a>
-                <@crafter.span id="headerType" $field="productTitle_s">${contentModel.productTitle_s}</@crafter.span>
+                </a><span id="headerType">eCommerce Product Demo</span>
             </div>
         </div>
 
@@ -130,9 +129,11 @@
                 </div>
             </div>
 
-            <#list contentModel.pageSections_o.item as module>
-            	<@renderComponent component=module />
-            </#list>
+            <@crafter.renderComponentCollection
+              $field="pageSections_o"
+              $containerAttributes={ "class": "" }
+              $itemAttributes={ "class": "" }
+            />
 
 <!--
 
