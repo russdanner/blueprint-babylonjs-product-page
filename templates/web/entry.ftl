@@ -112,7 +112,9 @@
         <script src="/static-assets/app/67cad91c66fe8e5633757e23e16f4220bf108fb5.js"></script>
         <div id="header">
             <div class="headerContent">
-                <a href="https://www.babylonjs.com/"><img src="/static-assets/app/babylonLogo_48px.svg"></a><span id="headerType">eCommerce Product Demo</span>
+                <a href="https://www.babylonjs.com/">
+                  <img src="/static-assets/app/babylonLogo_48px.svg">
+                </a><span id="headerType">eCommerce Product Demo</span>
             </div>
         </div>
         <div id="htmlLayer">
