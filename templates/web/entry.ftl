@@ -134,7 +134,6 @@
               $containerAttributes={ "class": "" }
               $itemTag="div"
               $itemAttributes={ "class": "dehydrate" }
-              $renderComponentArguments={ "widgetIndex": index}
             />
 
 <!--
