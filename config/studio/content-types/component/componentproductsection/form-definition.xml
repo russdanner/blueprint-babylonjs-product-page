@@ -64,7 +64,7 @@
 					<iceId></iceId>
 					<title>Internal Name</title>
 					<description></description>
-					<defaultValue></defaultValue>
+					<defaultValue>Product Page Section</defaultValue>
 					<help></help>
 					<properties>
 						<property>
@@ -76,6 +76,21 @@
 							<name>maxlength</name>
 							<value>50</value>
 							<type>int</type>
+						</property>
+						<property>
+							<name>readonly</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>tokenize</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>escapeContent</name>
+							<value>false</value>
+							<type>boolean</type>
 						</property>
 					</properties>
 					<constraints>
