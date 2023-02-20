@@ -114,7 +114,8 @@
             <div class="headerContent">
                 <a href="https://www.babylonjs.com/">
                   <img src="/static-assets/app/babylonLogo_48px.svg">
-                </a><@crafter.span id="headerType" $field="productTitle_s">${contentModel.productTitle_s}</crafter.span>
+                </a>
+                <@crafter.span id="headerType" $field="productTitle_s">${contentModel.productTitle_s}</@crafter.span>
             </div>
         </div>
 
