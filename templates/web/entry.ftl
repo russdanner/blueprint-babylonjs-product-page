@@ -129,7 +129,10 @@
                 </div>
             </div>
 
-            <@crafter.renderComponentCollection $field="pageSections_o" />
+            <@crafter.renderComponentCollection 
+                $field="pageSections_o"
+                $renderComponentArgument={"test": "testValue"}
+                  />
             
         </div>
     
