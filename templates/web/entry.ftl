@@ -131,8 +131,8 @@
 
             <@crafter.renderComponentCollection 
                 $field="pageSections_o"
-                $renderComponentArgument={"test": "testValue"}
-                  />
+                renderComponentArguments={"test": "testValue"}
+            />
             
         </div>
     
