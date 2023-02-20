@@ -9,7 +9,7 @@ var createScene = async function () {
         camera.minZ = 0.01;
         camera.rotation = new BABYLON.Vector3(BABYLON.Tools.ToRadians(8), 0.0, 0.0);
         scene.clearColor = new BABYLON.Color4(0, 0, 0, 0);
-        const env512 = BABYLON.CubeTexture.CreateFromPrefilteredData("assets/light/studio_512.env", scene);
+        const env512 = BABYLON.CubeTexture.CreateFromPrefilteredData("/static-assets/app/studio_512.env", scene);
         env512.name = "studio";
         env512.gammaSpace = false;
         env512.rotationY = BABYLON.Tools.ToRadians(275);
@@ -41,37 +41,37 @@ var createScene = async function () {
     let loadTexturesAsync = async function() {
         let textures = [];
 
-        staticTextures.morphShader = await BABYLON.NodeMaterial.ParseFromFileAsync("morphTexture", "assets/shaders/morphTextureShader.json", scene);
+        staticTextures.morphShader = await BABYLON.NodeMaterial.ParseFromFileAsync("morphTexture", "/static-assets/app/morphTextureShader.json", scene);
         staticTextures.morphTexture = staticTextures.morphShader.createProceduralTexture({ width: 2048, height: 1024 }, scene);
 
         return new Promise((resolve, reject) => {
             let textureUrls = [
-                "assets/textures/device_blackPlastic_baseColor.jpg",
-                "assets/textures/device_blackPlastic_ORM.png",
-                "assets/textures/device_blackPlastic_normal.png",
-                "assets/textures/device_no_clearcoat.png",
-                "assets/textures/device_whitePlastic_baseColor.jpg",
-                "assets/textures/device_whitePlastic_ORM.png",
-                "assets/textures/device_whitePlastic_normal.png",
-                "assets/textures/device_no_clearcoat.png",
-                "assets/textures/device_wood_baseColor.jpg",
-                "assets/textures/device_wood_ORM.png",
-                "assets/textures/device_wood_normal.png",
-                "assets/textures/device_wood_clearcoat.png",
-                "assets/textures/device_light_emissive.png",
-                "assets/textures/device_tempScreenUI_emissive.png",
-                "assets/textures/ui_battery_inactive.png",
-                "assets/textures/ui_calendar_active.png",
-                "assets/textures/ui_calendar_inactive.png",
-                "assets/textures/ui_contacts_active.png",
-                "assets/textures/ui_contacts_inactive.png",
-                "assets/textures/ui_music_active.png",
-                "assets/textures/ui_music_inactive.png",
-                "assets/textures/ui_next_inactive.png",
-                "assets/textures/ui_pause_inactive.png",
-                "assets/textures/ui_play_inactive.png",
-                "assets/textures/ui_previous_inactive.png",
-                "assets/textures/ui_wifi_inactive.png"
+                "/static-assets/app/texture/device_blackPlastic_baseColor.jpg",
+                "/static-assets/app/texture/device_blackPlastic_ORM.png",
+                "/static-assets/app/texture/device_blackPlastic_normal.png",
+                "/static-assets/app/texture/device_no_clearcoat.png",
+                "/static-assets/app/texture/device_whitePlastic_baseColor.jpg",
+                "/static-assets/app/texture/device_whitePlastic_ORM.png",
+                "/static-assets/app/texture/device_whitePlastic_normal.png",
+                "/static-assets/app/texture/device_no_clearcoat.png",
+                "/static-assets/app/texture/device_wood_baseColor.jpg",
+                "/static-assets/app/texture/device_wood_ORM.png",
+                "/static-assets/app/texture/device_wood_normal.png",
+                "/static-assets/app/texture/device_wood_clearcoat.png",
+                "/static-assets/app/texture/device_light_emissive.png",
+                "/static-assets/app/texture/device_tempScreenUI_emissive.png",
+                "/static-assets/app/texture/ui_battery_inactive.png",
+                "/static-assets/app/texture/ui_calendar_active.png",
+                "/static-assets/app/texture/ui_calendar_inactive.png",
+                "/static-assets/app/texture/ui_contacts_active.png",
+                "/static-assets/app/texture/ui_contacts_inactive.png",
+                "/static-assets/app/texture/ui_music_active.png",
+                "/static-assets/app/texture/ui_music_inactive.png",
+                "/static-assets/app/texture/ui_next_inactive.png",
+                "/static-assets/app/texture/ui_pause_inactive.png",
+                "/static-assets/app/texture/ui_play_inactive.png",
+                "/static-assets/app/texture/ui_previous_inactive.png",
+                "/static-assets/app/texture/ui_wifi_inactive.png"
             ];
 
             for (let url of textureUrls) {
@@ -186,15 +186,15 @@ var createScene = async function () {
     BABYLON.NodeMaterial.IgnoreTexturesAtLoadTime = true;
     async function createMaterials() {
         deviceMaterials.body = new BABYLON.NodeMaterial("deviceBodyMat", scene, { emitComments: false });
-        await deviceMaterials.body.loadAsync("assets/shaders/deviceBodyShader.json");
+        await deviceMaterials.body.loadAsync("/static-assets/app/deviceBodyShader.json");
         deviceMaterials.body.build(false);
 
         deviceMaterials.screen = new BABYLON.NodeMaterial("deviceScreenMat", scene, { emitComments: false });
-        await deviceMaterials.screen.loadAsync("assets/shaders/deviceScreenShader.json");
+        await deviceMaterials.screen.loadAsync("/static-assets/app/deviceScreenShader.json");
         deviceMaterials.screen.build(false);
 
         deviceMaterials.lens = new BABYLON.NodeMaterial("deviceLensMat", scene, { emitComments: false });
-        await deviceMaterials.lens.loadAsync("assets/shaders/deviceLensShader.json");
+        await deviceMaterials.lens.loadAsync("/static-assets/app/deviceLensShader.json");
         deviceMaterials.lens.build(false);
 
         deviceBodyParameters.currentBaseColor = deviceMaterials.body.getBlockByName("currentBaseColor");
@@ -314,7 +314,7 @@ var createScene = async function () {
     const device = {};
     const devicePivot = new BABYLON.AbstractMesh("devicePivot", scene);
     async function loadMeshes() {
-        device.file = await BABYLON.SceneLoader.AppendAsync("assets/meshes/port_low.glb");
+        device.file = await BABYLON.SceneLoader.AppendAsync("/static-assets/app/port_low.glb");
         device.body = scene.getMeshByName("portBody_low");
         device.lensGlass = scene.getMeshByName("portLensGlass_low");
         device.screen = scene.getMeshByName("touchGlass_low");
