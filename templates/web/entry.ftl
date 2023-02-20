@@ -126,8 +126,7 @@
             </div>
             <div id="block_1" class="dehydrate">&nbsp;
                 <@crafter.h1 id="head_1" class="track" $field="title_t">${contentModel.title_t}</@crafter.h1>
-                <@crafter.p field="body_html">${contentModel.body_html}
-                </@crafter.p>
+                <@crafter.p $field="body_html">${contentModel.body_html}</@crafter.p>
             </div>
 
             <div id="bg1">
