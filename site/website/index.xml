@@ -21,14 +21,16 @@
   <file-name>index.xml</file-name>
   <internal-name>Home</internal-name>
   <orderDefault_f>-1</orderDefault_f>
-  <body_html><![CDATA[<h1>Some informatio</h1>]]></body_html>
+  <body_html><![CDATA[<div>
+<p>Babylon.js gives you all the power you need to create realistic interactive experiences for your product's audience. Leverage the power of 3D rendering empowered by animation, behaviors, audio, video, and a full GUI layer.</p>
+</div>]]></body_html>
   <objectGroupId>8d7f</objectGroupId>
   <objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
   <folder-name/>
   <createdDate>2017-01-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
   <lastModifiedDate>2021-06-03T11:29:49.000Z</lastModifiedDate>
-  <lastModifiedDate_dt>2023-02-20T03:33:35.084Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2023-02-20T03:35:58.618Z</lastModifiedDate_dt>
   <title_t><![CDATA[A Product Name]]></title_t>
   <disabled>false</disabled>
 </page>
