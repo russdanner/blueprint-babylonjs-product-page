@@ -125,10 +125,9 @@
                 </div>
             </div>
             <div id="block_1" class="dehydrate">&nbsp;
-                <h1 id="head_1" class="track">Interactive Product Pages</h1>
-                <p>Babylon.js gives you all the power you need to create realistic interactive experiences for your product's audience. Leverage the power of 3D rendering empowered by animation, 
-                    behaviors, audio, video, and a full GUI layer.
-                </p>
+                <@crafter.h1 id="head_1" class="track" $field="title_t">${contentModel.title_t}</@crafter.h1>
+                <@crafter.p field="body_html">${contentModel.body_html}
+                </@crafter.p>
             </div>
 
             <div id="bg1">
