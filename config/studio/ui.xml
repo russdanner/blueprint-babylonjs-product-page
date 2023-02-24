@@ -37,10 +37,10 @@
                 </widget>
                 <widget id="craftercms.components.PathNavigator">
                     <configuration>
-                        <id>Components</id>
-                        <label>Components</label>
+                        <id>Models</id>
+                        <label>Models</label>
                         <icon id="craftercms.icons.Component"/>
-                        <rootPath>/site/components</rootPath>
+                        <rootPath>/site/components/models</rootPath>
                         <locale>en</locale>
                     </configuration>
                 </widget>
