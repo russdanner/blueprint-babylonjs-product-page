@@ -14,7 +14,7 @@
   <createdDate>2017-01-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
   <lastModifiedDate>2023-02-20T04:19:05.596Z</lastModifiedDate>
-  <lastModifiedDate_dt>2023-02-20T15:05:30.123Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2023-02-24T18:38:52.385Z</lastModifiedDate_dt>
   <disabled>false</disabled>
   <pageSections_o item-list="true">
     <item inline="true">
@@ -37,6 +37,22 @@
         <createdDate_dt>2023-02-20T04:09:30.044Z</createdDate_dt>
         <lastModifiedDate>2023-02-20T04:09:30.044Z</lastModifiedDate>
         <lastModifiedDate_dt>2023-02-20T15:05:30.123Z</lastModifiedDate_dt>
+      </component>
+    </item>
+    <item inline="true">
+      <key>2d8bad8a-fcc8-42b8-b1b1-0c6314acf89c</key>
+      <value><![CDATA[New Product Section]]></value>
+      <component id="2d8bad8a-fcc8-42b8-b1b1-0c6314acf89c">
+        <content-type>/component/componentproductsection</content-type>
+        <display-template>/templates/web/component-product-section.ftl</display-template>
+        <internal-name><![CDATA[New Product Section]]></internal-name>
+        <file-name>2d8bad8a-fcc8-42b8-b1b1-0c6314acf89c.xml</file-name>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <createdDate_dt>2023-02-24T18:38:52.384Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-02-24T18:38:52.384Z</lastModifiedDate_dt>
+        <objectId>2d8bad8a-fcc8-42b8-b1b1-0c6314acf89c</objectId>
+        <sectionTitle_s><![CDATA[Lucuqapi cokim da led mudenane lotonobode miteqiri.]]></sectionTitle_s>
+        <sectionBody_html><![CDATA[Hipipepiwi bococa lizifaqa pabureqi munumudo be tetoriz putonoca wimi hiropuwi.]]></sectionBody_html>
       </component>
     </item>
     <item inline="true">
