@@ -15,7 +15,10 @@
 
         <script src="/static-assets/app/babylon.js"></script>
         <script src="/static-assets/app/babylonjs.loaders.min.js"></script>
-        <script src="/static-assets/app/babylon.nodeEditor.js"></script><style>.gNn89IY11K82UKHTc2tC{display:none !important}
+        <script src="/static-assets/app/babylon.nodeEditor.js"></script>
+        
+        <style>
+            .gNn89IY11K82UKHTc2tC{display:none !important}
 
         <script src="/static-assets/app/babylon.gui.js"></script>
         <script src="/static-assets/app/pep.js"></script><style>[touch-action="none"]{ -ms-touch-action: none; touch-action: none; }
@@ -23,7 +26,8 @@
 [touch-action="pan-x"]{ -ms-touch-action: pan-x; touch-action: pan-x; }
 [touch-action="pan-y"]{ -ms-touch-action: pan-y; touch-action: pan-y; }
 [touch-action="pan-x pan-y"],[touch-action="pan-y pan-x"]{ -ms-touch-action: pan-x pan-y; touch-action: pan-x pan-y; }
-</style>
+    </style>
+    
     <style type="text/css">
 @font-face {
   font-weight: 400;
