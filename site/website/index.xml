@@ -14,7 +14,7 @@
   <createdDate>2017-01-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
   <lastModifiedDate>2023-02-20T04:19:05.596Z</lastModifiedDate>
-  <lastModifiedDate_dt>2023-02-24T18:39:10.832Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2023-02-24T20:10:28.160Z</lastModifiedDate_dt>
   <disabled>false</disabled>
   <pageSections_o item-list="true">
     <item inline="true">
@@ -53,6 +53,22 @@
         <objectId>2d8bad8a-fcc8-42b8-b1b1-0c6314acf89c</objectId>
         <sectionTitle_s><![CDATA[Lucuqapi cokim da led mudenane lotonobode miteqiri.]]></sectionTitle_s>
         <sectionBody_html><![CDATA[Hipipepiwi bococa lizifaqa pabureqi munumudo be tetoriz putonoca wimi hiropuwi.]]></sectionBody_html>
+      </component>
+    </item>
+    <item inline="true">
+      <key>70e7d8ef-89c9-4481-b268-a74e792fde8e</key>
+      <value><![CDATA[New Product Section]]></value>
+      <component id="70e7d8ef-89c9-4481-b268-a74e792fde8e">
+        <content-type>/component/componentproductsection</content-type>
+        <display-template>/templates/web/component-product-section.ftl</display-template>
+        <internal-name><![CDATA[New Product Section]]></internal-name>
+        <file-name>70e7d8ef-89c9-4481-b268-a74e792fde8e.xml</file-name>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <createdDate_dt>2023-02-24T20:10:28.159Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-02-24T20:10:28.159Z</lastModifiedDate_dt>
+        <objectId>70e7d8ef-89c9-4481-b268-a74e792fde8e</objectId>
+        <sectionTitle_s><![CDATA[Zosi. Tuhu. Fiborihonu jipo pocol retacami lu cero.]]></sectionTitle_s>
+        <sectionBody_html><![CDATA[Perim wikusok riculoper xakod burodebev reh baculece laborogi gobe zidejayeg.]]></sectionBody_html>
       </component>
     </item>
     <item inline="true">
