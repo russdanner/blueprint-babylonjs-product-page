@@ -1,8 +1,7 @@
 <#import "/templates/system/common/crafter.ftl" as crafter />
 
 <@crafter.div id="block_${itemIndex}" class="dehydrate">&nbsp;
-<h1>${test}</h1>
-    <@crafter.h1 id="head_${itemIndex}" class="track" $field="sectionTitle_s">${contentModel.sectionTitle_s}</@crafter.h1>
+     <@crafter.h1 id="head_${itemIndex}" class="track" $field="sectionTitle_s">${contentModel.sectionTitle_s}</@crafter.h1>
     <@crafter.span $field="sectionBody_html">${contentModel.sectionBody_html}</@crafter.span>
 
 </@crafter.div>
