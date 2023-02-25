@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/threedmodel</content-type>
+	<display-template/>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2a4a</objectGroupId>
+	<objectId>2a4a1f6f-2b48-19a7-e6f1-539787ffc35f</objectId>
+	<file-name>2a4a1f6f-2b48-19a7-e6f1-539787ffc35f.xml</file-name>
+	<folder-name/>
+	<internal-name>MERCEDES_AMG_GT</internal-name>
+	<modelormesh_o item-list="true">	<item datasource="model">	<key>/static-assets/models/mercedes_amg_gt-.glb</key>
+	<value>/static-assets/models/mercedes_amg_gt-.glb</value>
+	<fileType_smv>glb</fileType_smv>
+	<fileSize_smv>43540152</fileSize_smv>
+	<include>/static-assets/models/mercedes_amg_gt-.glb</include>
+	</item></modelormesh_o>
+	<textures_o item-list="true">	<item datasource="textures">	<key>/static-assets/textures/badge_dm-badge_opacity_2.png</key>
+	<value>/static-assets/textures/badge_dm-badge_opacity_2.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>2070167</fileSize_smv>
+	<include>/static-assets/textures/badge_dm-badge_opacity_2.png</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/badge_nm_1.jpeg</key>
+	<value>/static-assets/textures/badge_nm_1.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>922822</fileSize_smv>
+	<include>/static-assets/textures/badge_nm_1.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/badge_reflection-badge_rm_3@channels=b.jpeg</key>
+	<value>/static-assets/textures/badge_reflection-badge_rm_3@channels=b.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>475921</fileSize_smv>
+	<include>/static-assets/textures/badge_reflection-badge_rm_3@channels=b.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/badge_reflection-badge_rm_3@channels=g.jpeg</key>
+	<value>/static-assets/textures/badge_reflection-badge_rm_3@channels=g.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>409360</fileSize_smv>
+	<include>/static-assets/textures/badge_reflection-badge_rm_3@channels=g.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/badge_rm_0.jpeg</key>
+	<value>/static-assets/textures/badge_rm_0.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>557392</fileSize_smv>
+	<include>/static-assets/textures/badge_rm_0.jpeg</include>
+	</item></textures_o>
+	<createdDate>2023-02-25T06:25:55.099Z</createdDate>
+	<createdDate_dt>2023-02-25T06:25:55.099Z</createdDate_dt>
+	<lastModifiedDate>2023-02-25T06:25:55.099Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-02-25T06:25:55.099Z</lastModifiedDate_dt>
+</component>
