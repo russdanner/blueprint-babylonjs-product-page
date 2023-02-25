@@ -100,9 +100,49 @@
 	<fileType_smv>jpeg</fileType_smv>
 	<fileSize_smv>131143</fileSize_smv>
 	<include>/static-assets/textures/engine_reflection-engine_rm_10@channels=b.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/engine_reflection-engine_rm_10@channels=g.jpeg</key>
+	<value>/static-assets/textures/engine_reflection-engine_rm_10@channels=g.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>120974</fileSize_smv>
+	<include>/static-assets/textures/engine_reflection-engine_rm_10@channels=g.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/grill_2_nm_14.jpeg</key>
+	<value>/static-assets/textures/grill_2_nm_14.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>56779</fileSize_smv>
+	<include>/static-assets/textures/grill_2_nm_14.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/grill_3_dm_16.jpeg</key>
+	<value>/static-assets/textures/grill_3_dm_16.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>1753</fileSize_smv>
+	<include>/static-assets/textures/grill_3_dm_16.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/grill_3_nm_15.jpeg</key>
+	<value>/static-assets/textures/grill_3_nm_15.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>4273</fileSize_smv>
+	<include>/static-assets/textures/grill_3_nm_15.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/grill_nm_11.jpeg</key>
+	<value>/static-assets/textures/grill_nm_11.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>18520</fileSize_smv>
+	<include>/static-assets/textures/grill_nm_11.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/grille1_diff-grille1_opac_12.png</key>
+	<value>/static-assets/textures/grille1_diff-grille1_opac_12.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>1742</fileSize_smv>
+	<include>/static-assets/textures/grille1_diff-grille1_opac_12.png</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/grille1_gloss_13@channels=g.jpeg</key>
+	<value>/static-assets/textures/grille1_gloss_13@channels=g.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>2170</fileSize_smv>
+	<include>/static-assets/textures/grille1_gloss_13@channels=g.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/grille5_nrml_19.jpeg</key>
+	<value>/static-assets/textures/grille5_nrml_19.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>53612</fileSize_smv>
+	<include>/static-assets/textures/grille5_nrml_19.jpeg</include>
 	</item></textures_o>
 	<createdDate>2023-02-25T06:25:55.099Z</createdDate>
 	<createdDate_dt>2023-02-25T06:25:55.099Z</createdDate_dt>
-	<lastModifiedDate>2023-02-25T06:28:50.504Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-02-25T06:28:50.504Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-02-25T06:32:23.623Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-02-25T06:32:23.623Z</lastModifiedDate_dt>
 </component>
