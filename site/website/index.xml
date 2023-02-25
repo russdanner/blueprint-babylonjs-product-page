@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-  <content-type>/page/entry</content-type>
-  <display-template>/templates/web/entry.ftl</display-template>
-  <no-template-required/>
-  <merge-strategy>inherit-levels</merge-strategy>
-  <placeInNav>false</placeInNav>
-  <file-name>index.xml</file-name>
-  <internal-name>Home</internal-name>
-  <orderDefault_f>-1</orderDefault_f>
-  <objectGroupId>8d7f</objectGroupId>
-  <objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
-  <folder-name/>
-  <createdDate>2017-01-31T16:18:14.000Z</createdDate>
-  <createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
-  <lastModifiedDate>2023-02-20T04:19:05.596Z</lastModifiedDate>
-  <lastModifiedDate_dt>2023-02-24T20:10:56.422Z</lastModifiedDate_dt>
-  <disabled>false</disabled>
-  <pageSections_o item-list="true">
-    <item inline="true">
-      <key>977f224b-2487-5c61-3564-fdfe56bafbee</key>
-      <value>Interactive Product Pages</value>
-      <disableFlattening>false</disableFlattening>
-      <component id="977f224b-2487-5c61-3564-fdfe56bafbee">
+	<content-type>/page/entry</content-type>
+	<display-template>/templates/web/entry.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<placeInNav>false</placeInNav>
+	<file-name>index.xml</file-name>
+	<internal-name>Home</internal-name>
+	<orderDefault_f>-1</orderDefault_f>
+	<objectGroupId>8d7f</objectGroupId>
+	<objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
+	<folder-name/>
+	<createdDate>2017-01-31T16:18:14.000Z</createdDate>
+	<createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
+	<lastModifiedDate>2023-02-25T06:09:32.062Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-02-25T06:09:32.062Z</lastModifiedDate_dt>
+	<disabled>false</disabled>
+	<pageSections_o item-list="true">	<item inline="true">	<key>977f224b-2487-5c61-3564-fdfe56bafbee</key>
+	<value>Interactive Product Pages</value>
+	<disableFlattening>false</disableFlattening>
+<component id="977f224b-2487-5c61-3564-fdfe56bafbee">
         <content-type>/component/componentproductsection</content-type>
         <display-template>/templates/web/component-product-section.ftl</display-template>
         <no-template-required/>
@@ -38,11 +36,9 @@
         <lastModifiedDate>2023-02-20T04:09:30.044Z</lastModifiedDate>
         <lastModifiedDate_dt>2023-02-20T15:05:30.123Z</lastModifiedDate_dt>
       </component>
-    </item>
-    <item inline="true">
-      <key>e9969e82-9433-480f-a1ad-80af3bfba3c6</key>
-      <value><![CDATA[New Product Section]]></value>
-      <component id="e9969e82-9433-480f-a1ad-80af3bfba3c6">
+	</item>	<item inline="true">	<key>e9969e82-9433-480f-a1ad-80af3bfba3c6</key>
+	<value>New Product Section</value>
+<component id="e9969e82-9433-480f-a1ad-80af3bfba3c6">
         <content-type>/component/componentproductsection</content-type>
         <display-template>/templates/web/component-product-section.ftl</display-template>
         <internal-name><![CDATA[New Product Section]]></internal-name>
@@ -54,11 +50,10 @@
         <sectionTitle_s><![CDATA[Pola ture zupo ni. Yuvoc gilopader pavarodo hemefa.]]></sectionTitle_s>
         <sectionBody_html><![CDATA[Pufaxidoc mukal mitoxo. Rebulex lip yidepovep mohuko racum dubucatoro. Ducu.]]></sectionBody_html>
       </component>
-    </item>
-    <item inline="true">
-      <key>3099ac50-cb5a-4082-81be-d70c5107c994</key>
-      <value><![CDATA[New Product Section]]></value>
-      <component id="3099ac50-cb5a-4082-81be-d70c5107c994">
+	<disableFlattening>false</disableFlattening>
+	</item>	<item inline="true">	<key>3099ac50-cb5a-4082-81be-d70c5107c994</key>
+	<value>New Product Section</value>
+<component id="3099ac50-cb5a-4082-81be-d70c5107c994">
         <content-type>/component/componentproductsection</content-type>
         <display-template>/templates/web/component-product-section.ftl</display-template>
         <internal-name><![CDATA[New Product Section]]></internal-name>
@@ -70,11 +65,10 @@
         <sectionTitle_s><![CDATA[Bunepebu be lub ferired posuduru capu yiq dinixumi.]]></sectionTitle_s>
         <sectionBody_html><![CDATA[Ludipicab lupireq mib cu cuqosih barohatute baracoc yoyam boze babu.]]></sectionBody_html>
       </component>
-    </item>
-    <item inline="true">
-      <key>2d8bad8a-fcc8-42b8-b1b1-0c6314acf89c</key>
-      <value><![CDATA[New Product Section]]></value>
-      <component id="2d8bad8a-fcc8-42b8-b1b1-0c6314acf89c">
+	<disableFlattening>false</disableFlattening>
+	</item>	<item inline="true">	<key>2d8bad8a-fcc8-42b8-b1b1-0c6314acf89c</key>
+	<value>New Product Section</value>
+<component id="2d8bad8a-fcc8-42b8-b1b1-0c6314acf89c">
         <content-type>/component/componentproductsection</content-type>
         <display-template>/templates/web/component-product-section.ftl</display-template>
         <internal-name><![CDATA[New Product Section]]></internal-name>
@@ -86,11 +80,10 @@
         <sectionTitle_s><![CDATA[Lucuqapi cokim da led mudenane lotonobode miteqiri.]]></sectionTitle_s>
         <sectionBody_html><![CDATA[Hipipepiwi bococa lizifaqa pabureqi munumudo be tetoriz putonoca wimi hiropuwi.]]></sectionBody_html>
       </component>
-    </item>
-    <item inline="true">
-      <key>ab6f1ee0-43ec-4e1d-a1f5-462ebf6be51c</key>
-      <value><![CDATA[New Product Section]]></value>
-      <component id="ab6f1ee0-43ec-4e1d-a1f5-462ebf6be51c">
+	<disableFlattening>false</disableFlattening>
+	</item>	<item inline="true">	<key>ab6f1ee0-43ec-4e1d-a1f5-462ebf6be51c</key>
+	<value>New Product Section</value>
+<component id="ab6f1ee0-43ec-4e1d-a1f5-462ebf6be51c">
         <content-type>/component/componentproductsection</content-type>
         <display-template>/templates/web/component-product-section.ftl</display-template>
         <internal-name><![CDATA[New Product Section]]></internal-name>
@@ -102,11 +95,10 @@
         <sectionTitle_s><![CDATA[Gupa me buhupul ku berebapa toru ta nopore cikudaj.]]></sectionTitle_s>
         <sectionBody_html><![CDATA[Dapuxesa maquco co tucu befu gu mupek. Duqirecuk xafobu hoh.]]></sectionBody_html>
       </component>
-    </item>
-    <item inline="true">
-      <key>70e7d8ef-89c9-4481-b268-a74e792fde8e</key>
-      <value><![CDATA[New Product Section]]></value>
-      <component id="70e7d8ef-89c9-4481-b268-a74e792fde8e">
+	<disableFlattening>false</disableFlattening>
+	</item>	<item inline="true">	<key>70e7d8ef-89c9-4481-b268-a74e792fde8e</key>
+	<value>New Product Section</value>
+<component id="70e7d8ef-89c9-4481-b268-a74e792fde8e">
         <content-type>/component/componentproductsection</content-type>
         <display-template>/templates/web/component-product-section.ftl</display-template>
         <internal-name><![CDATA[New Product Section]]></internal-name>
@@ -118,12 +110,11 @@
         <sectionTitle_s><![CDATA[Zosi. Tuhu. Fiborihonu jipo pocol retacami lu cero.]]></sectionTitle_s>
         <sectionBody_html><![CDATA[Perim wikusok riculoper xakod burodebev reh baculece laborogi gobe zidejayeg.]]></sectionBody_html>
       </component>
-    </item>
-    <item inline="true">
-      <key>e193e1bf-537f-482c-8055-dc500b1d3f08</key>
-      <value>New Product Section</value>
-      <disableFlattening>false</disableFlattening>
-      <component id="e193e1bf-537f-482c-8055-dc500b1d3f08">
+	<disableFlattening>false</disableFlattening>
+	</item>	<item inline="true">	<key>e193e1bf-537f-482c-8055-dc500b1d3f08</key>
+	<value>New Product Section</value>
+	<disableFlattening>false</disableFlattening>
+<component id="e193e1bf-537f-482c-8055-dc500b1d3f08">
         <content-type>/component/componentproductsection</content-type>
         <display-template>/templates/web/component-product-section.ftl</display-template>
         <no-template-required/>
@@ -139,7 +130,11 @@
         <createdDate>2023-02-20T04:19:06.545Z</createdDate>
         <lastModifiedDate>2023-02-20T04:19:06.545Z</lastModifiedDate>
       </component>
-    </item>
-  </pageSections_o>
-  <productTitle_s>eCommerce Product Demo</productTitle_s>
+	</item></pageSections_o>
+	<productTitle_s>eCommerce Product Demo</productTitle_s>
+	<model_o item-list="true">	<item>	<key>/site/components/models/0be41649-c128-e8d7-dfcb-82aad92fac69.xml</key>
+	<value>Shelby Cobra</value>
+	<include>/site/components/models/0be41649-c128-e8d7-dfcb-82aad92fac69.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></model_o>
 </page>
