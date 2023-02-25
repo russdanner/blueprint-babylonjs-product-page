@@ -7,7 +7,7 @@
 	<objectGroupId>e5cf</objectGroupId>
 	<objectId>12cf0856-beed-f05b-b8e9-669a7bd9bf9b</objectId>
 	<file-name>12cf0856-beed-f05b-b8e9-669a7bd9bf9b.xml</file-name>
-	<folder-name>/site/components</folder-name>
+	<folder-name/>
 	<internal-name>Digital Assistance</internal-name>
 	<modelormesh_o item-list="true">	<item datasource="model">	<key>/static-assets/Models/static-assets/modelsport_low.glb</key>
 	<value>/static-assets/Models/static-assets/modelsport_low.glb</value>
@@ -118,6 +118,6 @@
 	</item></textures_o>
 	<createdDate>2023-02-24T22:32:52.972Z</createdDate>
 	<createdDate_dt>2023-02-24T22:32:52.972Z</createdDate_dt>
-	<lastModifiedDate>2023-02-25T05:20:20.547Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-02-25T05:20:20.547Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-02-25T05:29:57.481Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-02-25T05:29:57.481Z</lastModifiedDate_dt>
 </component>
