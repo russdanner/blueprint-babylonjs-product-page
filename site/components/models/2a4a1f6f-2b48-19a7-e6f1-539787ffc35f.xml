@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
+	<savedAsDraft>true</savedAsDraft>
 	<content-type>/component/threedmodel</content-type>
 	<display-template/>
 	<no-template-required>true</no-template-required>
@@ -200,9 +201,14 @@
 	<fileType_smv>jpeg</fileType_smv>
 	<fileSize_smv>107105</fileSize_smv>
 	<include>/static-assets/textures/light_reflection-light_rm_26@channels=g.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/badge_dm-badge_opacity_2.png</key>
+	<value>/static-assets/textures/badge_dm-badge_opacity_2.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>2070167</fileSize_smv>
+	<include>/static-assets/textures/badge_dm-badge_opacity_2.png</include>
 	</item></textures_o>
 	<createdDate>2023-02-25T06:25:55.099Z</createdDate>
 	<createdDate_dt>2023-02-25T06:25:55.099Z</createdDate_dt>
-	<lastModifiedDate>2023-02-25T19:36:45.772Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-02-25T19:36:45.772Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-02-25T20:13:33.560Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-02-25T20:13:33.560Z</lastModifiedDate_dt>
 </component>
