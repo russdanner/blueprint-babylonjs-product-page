@@ -15,12 +15,7 @@
 	<fileSize_smv>43540152</fileSize_smv>
 	<include>/static-assets/models/mercedes_amg_gt-.glb</include>
 	</item></modelormesh_o>
-	<textures_o item-list="true">	<item datasource="textures">	<key>/static-assets/textures/badge_dm-badge_opacity_2.png</key>
-	<value>/static-assets/textures/badge_dm-badge_opacity_2.png</value>
-	<fileType_smv>png</fileType_smv>
-	<fileSize_smv>2070167</fileSize_smv>
-	<include>/static-assets/textures/badge_dm-badge_opacity_2.png</include>
-	</item>	<item datasource="textures">	<key>/static-assets/textures/badge_nm_1.jpeg</key>
+	<textures_o item-list="true">	<item datasource="textures">	<key>/static-assets/textures/badge_nm_1.jpeg</key>
 	<value>/static-assets/textures/badge_nm_1.jpeg</value>
 	<fileType_smv>jpeg</fileType_smv>
 	<fileSize_smv>922822</fileSize_smv>
@@ -140,9 +135,39 @@
 	<fileType_smv>jpeg</fileType_smv>
 	<fileSize_smv>53612</fileSize_smv>
 	<include>/static-assets/textures/grille5_nrml_19.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/int_dm_21.jpeg</key>
+	<value>/static-assets/textures/int_dm_21.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>346538</fileSize_smv>
+	<include>/static-assets/textures/int_dm_21.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/int_nm_20.jpeg</key>
+	<value>/static-assets/textures/int_nm_20.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>669809</fileSize_smv>
+	<include>/static-assets/textures/int_nm_20.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/int_reflection-int_rm_22@channels=b.jpeg</key>
+	<value>/static-assets/textures/int_reflection-int_rm_22@channels=b.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>218617</fileSize_smv>
+	<include>/static-assets/textures/int_reflection-int_rm_22@channels=b.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/light_dm_25.jpeg</key>
+	<value>/static-assets/textures/light_dm_25.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>469057</fileSize_smv>
+	<include>/static-assets/textures/light_dm_25.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/light_emission_24.jpeg</key>
+	<value>/static-assets/textures/light_emission_24.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>96943</fileSize_smv>
+	<include>/static-assets/textures/light_emission_24.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/tyre_sidewall_dm_33.jpeg</key>
+	<value>/static-assets/textures/tyre_sidewall_dm_33.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>1208290</fileSize_smv>
+	<include>/static-assets/textures/tyre_sidewall_dm_33.jpeg</include>
 	</item></textures_o>
 	<createdDate>2023-02-25T06:25:55.099Z</createdDate>
 	<createdDate_dt>2023-02-25T06:25:55.099Z</createdDate_dt>
-	<lastModifiedDate>2023-02-25T06:32:23.623Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-02-25T06:32:23.623Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-02-25T06:34:41.800Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-02-25T06:34:41.800Z</lastModifiedDate_dt>
 </component>
