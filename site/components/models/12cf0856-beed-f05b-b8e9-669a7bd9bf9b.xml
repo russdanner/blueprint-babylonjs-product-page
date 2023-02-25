@@ -10,11 +10,11 @@
 	<file-name>12cf0856-beed-f05b-b8e9-669a7bd9bf9b.xml</file-name>
 	<folder-name/>
 	<internal-name>Digital Assistance</internal-name>
-	<modelormesh_o item-list="true">	<item datasource="model">	<key>/static-assets/Models/static-assets/modelsport_low.glb</key>
-	<value>/static-assets/Models/static-assets/modelsport_low.glb</value>
+	<modelormesh_o item-list="true">	<item datasource="model">	<key>/static-assets/models/port_low.glb</key>
+	<value>/static-assets/models/port_low.glb</value>
 	<fileType_smv>glb</fileType_smv>
 	<fileSize_smv>2126516</fileSize_smv>
-	<include>/static-assets/Models/static-assets/modelsport_low.glb</include>
+	<include>/static-assets/models/port_low.glb</include>
 	</item></modelormesh_o>
 	<textures_o item-list="true">	<item datasource="textures">	<key>/static-assets/textures/device_blackplastic_basecolor.jpg</key>
 	<value>/static-assets/textures/device_blackplastic_basecolor.jpg</value>
@@ -139,6 +139,6 @@
 	</item></textures_o>
 	<createdDate>2023-02-24T22:32:52.972Z</createdDate>
 	<createdDate_dt>2023-02-24T22:32:52.972Z</createdDate_dt>
-	<lastModifiedDate>2023-02-25T05:57:45.307Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-02-25T05:57:45.307Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-02-25T06:03:18.400Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-02-25T06:03:18.400Z</lastModifiedDate_dt>
 </component>
