@@ -165,9 +165,44 @@
 	<fileType_smv>jpeg</fileType_smv>
 	<fileSize_smv>1208290</fileSize_smv>
 	<include>/static-assets/textures/tyre_sidewall_dm_33.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/tyre_tread_nm_29.jpeg</key>
+	<value>/static-assets/textures/tyre_tread_nm_29.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>2319334</fileSize_smv>
+	<include>/static-assets/textures/tyre_tread_nm_29.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/tyre_tread_dm_30.jpeg</key>
+	<value>/static-assets/textures/tyre_tread_dm_30.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>1110545</fileSize_smv>
+	<include>/static-assets/textures/tyre_tread_dm_30.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/tyre_tread_ao-tyre_tread_rm_31@channels=g.jpeg</key>
+	<value>/static-assets/textures/tyre_tread_ao-tyre_tread_rm_31@channels=g.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>3292714</fileSize_smv>
+	<include>/static-assets/textures/tyre_tread_ao-tyre_tread_rm_31@channels=g.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/tyre_tread_ao-tyre_tread_rm_31@channels=b.jpeg</key>
+	<value>/static-assets/textures/tyre_tread_ao-tyre_tread_rm_31@channels=b.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>3195280</fileSize_smv>
+	<include>/static-assets/textures/tyre_tread_ao-tyre_tread_rm_31@channels=b.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/tyre_sidewall_ref-tyre_tread_rm_34@channels=b.jpeg</key>
+	<value>/static-assets/textures/tyre_sidewall_ref-tyre_tread_rm_34@channels=b.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>1225673</fileSize_smv>
+	<include>/static-assets/textures/tyre_sidewall_ref-tyre_tread_rm_34@channels=b.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/tyre_sidewall_nm_32.jpeg</key>
+	<value>/static-assets/textures/tyre_sidewall_nm_32.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>944973</fileSize_smv>
+	<include>/static-assets/textures/tyre_sidewall_nm_32.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/light_reflection-light_rm_26@channels=g.jpeg</key>
+	<value>/static-assets/textures/light_reflection-light_rm_26@channels=g.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>107105</fileSize_smv>
+	<include>/static-assets/textures/light_reflection-light_rm_26@channels=g.jpeg</include>
 	</item></textures_o>
 	<createdDate>2023-02-25T06:25:55.099Z</createdDate>
 	<createdDate_dt>2023-02-25T06:25:55.099Z</createdDate_dt>
-	<lastModifiedDate>2023-02-25T06:34:41.800Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-02-25T06:34:41.800Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-02-25T19:36:45.772Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-02-25T19:36:45.772Z</lastModifiedDate_dt>
 </component>
