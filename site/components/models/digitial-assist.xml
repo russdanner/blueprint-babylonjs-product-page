@@ -9,17 +9,115 @@
 	<file-name>12cf0856-beed-f05b-b8e9-669a7bd9bf9b.xml</file-name>
 	<folder-name/>
 	<internal-name>Digital Assistance</internal-name>
-	<modelormesh_o item-list="true">	
-		<item datasource="model">	
-		<key>/static-assets/Models/static-assets/modelsconcep-car.blend</key>
-		<value>/static-assets/Models/static-assets/modelsconcep-car.blend</value>
-	<fileType_smv>blend</fileType_smv>
-	<fileSize_smv>1688748</fileSize_smv>
-	<include>/static-assets/Models/static-assets/modelsconcep-car.blend</include>
+	<modelormesh_o item-list="true">	<item datasource="model">	<key>/static-assets/Models/static-assets/modelsport_low.glb</key>
+	<value>/static-assets/Models/static-assets/modelsport_low.glb</value>
+	<fileType_smv>glb</fileType_smv>
+	<fileSize_smv>2126516</fileSize_smv>
+	<include>/static-assets/Models/static-assets/modelsport_low.glb</include>
 	</item></modelormesh_o>
-	<textures_o item-list="true"/>
+	<textures_o item-list="true">	<item datasource="textures">	<key>/static-assets/textures/device_blackplastic_basecolor.jpg</key>
+	<value>/static-assets/textures/device_blackplastic_basecolor.jpg</value>
+	<fileType_smv>jpg</fileType_smv>
+	<fileSize_smv>118294</fileSize_smv>
+	<include>/static-assets/textures/device_blackplastic_basecolor.jpg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/device_blackplastic_normal.png</key>
+	<value>/static-assets/textures/device_blackplastic_normal.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>640059</fileSize_smv>
+	<include>/static-assets/textures/device_blackplastic_normal.png</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/device_blackplastic_orm.png</key>
+	<value>/static-assets/textures/device_blackplastic_orm.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>1258758</fileSize_smv>
+	<include>/static-assets/textures/device_blackplastic_orm.png</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/device_light_emissive.png</key>
+	<value>/static-assets/textures/device_light_emissive.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>14994</fileSize_smv>
+	<include>/static-assets/textures/device_light_emissive.png</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/device_no_clearcoat.png</key>
+	<value>/static-assets/textures/device_no_clearcoat.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>15051</fileSize_smv>
+	<include>/static-assets/textures/device_no_clearcoat.png</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/device_tempscreenui_emissive.png</key>
+	<value>/static-assets/textures/device_tempscreenui_emissive.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>72685</fileSize_smv>
+	<include>/static-assets/textures/device_tempscreenui_emissive.png</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/device_whiteplastic_basecolor.jpg</key>
+	<value>/static-assets/textures/device_whiteplastic_basecolor.jpg</value>
+	<fileType_smv>jpg</fileType_smv>
+	<fileSize_smv>143047</fileSize_smv>
+	<include>/static-assets/textures/device_whiteplastic_basecolor.jpg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/device_whiteplastic_normal.png</key>
+	<value>/static-assets/textures/device_whiteplastic_normal.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>231786</fileSize_smv>
+	<include>/static-assets/textures/device_whiteplastic_normal.png</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/device_whiteplastic_orm.png</key>
+	<value>/static-assets/textures/device_whiteplastic_orm.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>1000041</fileSize_smv>
+	<include>/static-assets/textures/device_whiteplastic_orm.png</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/device_wood_basecolor.jpg</key>
+	<value>/static-assets/textures/device_wood_basecolor.jpg</value>
+	<fileType_smv>jpg</fileType_smv>
+	<fileSize_smv>288477</fileSize_smv>
+	<include>/static-assets/textures/device_wood_basecolor.jpg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/device_wood_normal.png</key>
+	<value>/static-assets/textures/device_wood_normal.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>582934</fileSize_smv>
+	<include>/static-assets/textures/device_wood_normal.png</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/device_wood_clearcoat.png</key>
+	<value>/static-assets/textures/device_wood_clearcoat.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>56983</fileSize_smv>
+	<include>/static-assets/textures/device_wood_clearcoat.png</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/device_wood_orm.png</key>
+	<value>/static-assets/textures/device_wood_orm.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>1308668</fileSize_smv>
+	<include>/static-assets/textures/device_wood_orm.png</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/ui_battery_inactive.png</key>
+	<value>/static-assets/textures/ui_battery_inactive.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>897</fileSize_smv>
+	<include>/static-assets/textures/ui_battery_inactive.png</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/ui_calendar_active.png</key>
+	<value>/static-assets/textures/ui_calendar_active.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>4744</fileSize_smv>
+	<include>/static-assets/textures/ui_calendar_active.png</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/ui_calendar_inactive.png</key>
+	<value>/static-assets/textures/ui_calendar_inactive.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>4903</fileSize_smv>
+	<include>/static-assets/textures/ui_calendar_inactive.png</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/ui_contacts_active.png</key>
+	<value>/static-assets/textures/ui_contacts_active.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>4330</fileSize_smv>
+	<include>/static-assets/textures/ui_contacts_active.png</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/ui_contacts_inactive.png</key>
+	<value>/static-assets/textures/ui_contacts_inactive.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>4527</fileSize_smv>
+	<include>/static-assets/textures/ui_contacts_inactive.png</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/ui_music_active.png</key>
+	<value>/static-assets/textures/ui_music_active.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>4984</fileSize_smv>
+	<include>/static-assets/textures/ui_music_active.png</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/ui_music_inactive.png</key>
+	<value>/static-assets/textures/ui_music_inactive.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>5188</fileSize_smv>
+	<include>/static-assets/textures/ui_music_inactive.png</include>
+	</item></textures_o>
 	<createdDate>2023-02-24T22:32:52.972Z</createdDate>
 	<createdDate_dt>2023-02-24T22:32:52.972Z</createdDate_dt>
-	<lastModifiedDate>2023-02-24T22:32:52.972Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-02-24T22:32:52.972Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-02-25T05:15:02.911Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-02-25T05:15:02.911Z</lastModifiedDate_dt>
 </component>
