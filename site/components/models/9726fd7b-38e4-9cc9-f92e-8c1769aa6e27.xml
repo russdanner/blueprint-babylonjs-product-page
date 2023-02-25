@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/threedmodel</content-type>
+	<display-template/>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9726</objectGroupId>
+	<objectId>9726fd7b-38e4-9cc9-f92e-8c1769aa6e27</objectId>
+	<file-name>9726fd7b-38e4-9cc9-f92e-8c1769aa6e27.xml</file-name>
+	<folder-name/>
+	<internal-name>C1 Corvette</internal-name>
+	<modelormesh_o item-list="true">	<item datasource="model">	<key>/static-assets/models/vet57c.fbx</key>
+	<value>/static-assets/models/vet57c.fbx</value>
+	<fileType_smv>fbx</fileType_smv>
+	<fileSize_smv>668640</fileSize_smv>
+	<include>/static-assets/models/vet57c.fbx</include>
+	</item></modelormesh_o>
+	<textures_o item-list="true">	<item datasource="textures">	<key>/static-assets/textures/headlights_ucb.png</key>
+	<value>/static-assets/textures/headlights_ucb.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>794194</fileSize_smv>
+	<include>/static-assets/textures/headlights_ucb.png</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/rim_colour.png</key>
+	<value>/static-assets/textures/rim_colour.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>3132</fileSize_smv>
+	<include>/static-assets/textures/rim_colour.png</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/tier_1t.png</key>
+	<value>/static-assets/textures/tier_1t.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>75371</fileSize_smv>
+	<include>/static-assets/textures/tier_1t.png</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/ucb_bottom_normalmap.png</key>
+	<value>/static-assets/textures/ucb_bottom_normalmap.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>967913</fileSize_smv>
+	<include>/static-assets/textures/ucb_bottom_normalmap.png</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/ucb_bottom.png</key>
+	<value>/static-assets/textures/ucb_bottom.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>780878</fileSize_smv>
+	<include>/static-assets/textures/ucb_bottom.png</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/ucb_doorshut_nrm.png</key>
+	<value>/static-assets/textures/ucb_doorshut_nrm.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>40910</fileSize_smv>
+	<include>/static-assets/textures/ucb_doorshut_nrm.png</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/ucb_interior.png</key>
+	<value>/static-assets/textures/ucb_interior.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>366886</fileSize_smv>
+	<include>/static-assets/textures/ucb_interior.png</include>
+	</item></textures_o>
+	<createdDate>2023-02-25T06:19:55.004Z</createdDate>
+	<createdDate_dt>2023-02-25T06:19:55.004Z</createdDate_dt>
+	<lastModifiedDate>2023-02-25T06:19:55.004Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-02-25T06:19:55.004Z</lastModifiedDate_dt>
+</component>
