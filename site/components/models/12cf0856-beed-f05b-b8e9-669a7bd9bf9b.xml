@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
+	<savedAsDraft>true</savedAsDraft>
 	<content-type>/component/threedmodel</content-type>
 	<display-template/>
 	<no-template-required>true</no-template-required>
@@ -115,9 +116,14 @@
 	<fileType_smv>png</fileType_smv>
 	<fileSize_smv>5188</fileSize_smv>
 	<include>/static-assets/textures/ui_music_inactive.png</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/ui_wifi_inactive.png</key>
+	<value>/static-assets/textures/ui_wifi_inactive.png</value>
+	<fileType_smv>png</fileType_smv>
+	<fileSize_smv>1695</fileSize_smv>
+	<include>/static-assets/textures/ui_wifi_inactive.png</include>
 	</item></textures_o>
 	<createdDate>2023-02-24T22:32:52.972Z</createdDate>
 	<createdDate_dt>2023-02-24T22:32:52.972Z</createdDate_dt>
-	<lastModifiedDate>2023-02-25T05:29:57.481Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-02-25T05:29:57.481Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-02-25T05:36:11.375Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-02-25T05:36:11.375Z</lastModifiedDate_dt>
 </component>
