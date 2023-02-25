@@ -13,8 +13,8 @@
 	<folder-name/>
 	<createdDate>2017-01-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2023-02-25T06:13:19.350Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-02-25T06:13:19.350Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-02-25T06:21:33.646Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-02-25T06:21:33.646Z</lastModifiedDate_dt>
 	<disabled>false</disabled>
 	<pageSections_o item-list="true">	<item inline="true">	<key>977f224b-2487-5c61-3564-fdfe56bafbee</key>
 	<value>Interactive Product Pages</value>
@@ -132,9 +132,9 @@
       </component>
 	</item></pageSections_o>
 	<productTitle_s>eCommerce Product Demo</productTitle_s>
-	<model_o item-list="true">	<item>	<key>/site/components/models/0be41649-c128-e8d7-dfcb-82aad92fac69.xml</key>
-	<value>Shelby Cobra</value>
-	<include>/site/components/models/0be41649-c128-e8d7-dfcb-82aad92fac69.xml</include>
+	<model_o item-list="true">	<item>	<key>/site/components/models/9726fd7b-38e4-9cc9-f92e-8c1769aa6e27.xml</key>
+	<value>C1 Corvette</value>
+	<include>/site/components/models/9726fd7b-38e4-9cc9-f92e-8c1769aa6e27.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></model_o>
 </page>
