@@ -203,7 +203,7 @@
 					<properties>
 						<property>
 							<name>repoPath</name>
-							<value>/static-assets/Models</value>
+							<value>/static-assets/models</value>
 								<type>content-path-input</type>
 						</property>
 					</properties>
