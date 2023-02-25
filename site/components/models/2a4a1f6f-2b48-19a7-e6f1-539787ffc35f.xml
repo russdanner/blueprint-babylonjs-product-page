@@ -181,11 +181,6 @@
 	<fileType_smv>jpeg</fileType_smv>
 	<fileSize_smv>3292714</fileSize_smv>
 	<include>/static-assets/textures/tyre_tread_ao-tyre_tread_rm_31@channels=g.jpeg</include>
-	</item>	<item datasource="textures">	<key>/static-assets/textures/tyre_tread_ao-tyre_tread_rm_31@channels=b.jpeg</key>
-	<value>/static-assets/textures/tyre_tread_ao-tyre_tread_rm_31@channels=b.jpeg</value>
-	<fileType_smv>jpeg</fileType_smv>
-	<fileSize_smv>3195280</fileSize_smv>
-	<include>/static-assets/textures/tyre_tread_ao-tyre_tread_rm_31@channels=b.jpeg</include>
 	</item>	<item datasource="textures">	<key>/static-assets/textures/tyre_sidewall_ref-tyre_tread_rm_34@channels=b.jpeg</key>
 	<value>/static-assets/textures/tyre_sidewall_ref-tyre_tread_rm_34@channels=b.jpeg</value>
 	<fileType_smv>jpeg</fileType_smv>
@@ -201,11 +196,36 @@
 	<fileType_smv>jpeg</fileType_smv>
 	<fileSize_smv>107105</fileSize_smv>
 	<include>/static-assets/textures/light_reflection-light_rm_26@channels=g.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/tyre_tread_ao-tyre_tread_rm_31@channels=b.jpeg</key>
+	<value>/static-assets/textures/tyre_tread_ao-tyre_tread_rm_31@channels=b.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>3195280</fileSize_smv>
+	<include>/static-assets/textures/tyre_tread_ao-tyre_tread_rm_31@channels=b.jpeg</include>
 	</item>	<item datasource="textures">	<key>/static-assets/textures/badge_dm-badge_opacity_2.png</key>
 	<value>/static-assets/textures/badge_dm-badge_opacity_2.png</value>
 	<fileType_smv>png</fileType_smv>
 	<fileSize_smv>2070167</fileSize_smv>
 	<include>/static-assets/textures/badge_dm-badge_opacity_2.png</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/tyre_sidewall_ref-tyre_tread_rm_34@channels=g.jpeg</key>
+	<value>/static-assets/textures/tyre_sidewall_ref-tyre_tread_rm_34@channels=g.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>1166193</fileSize_smv>
+	<include>/static-assets/textures/tyre_sidewall_ref-tyre_tread_rm_34@channels=g.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/light_reflection-light_rm_26@channels=b.jpeg</key>
+	<value>/static-assets/textures/light_reflection-light_rm_26@channels=b.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>125728</fileSize_smv>
+	<include>/static-assets/textures/light_reflection-light_rm_26@channels=b.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/int_reflection-int_rm_22@channels=g.jpeg</key>
+	<value>/static-assets/textures/int_reflection-int_rm_22@channels=g.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>210049</fileSize_smv>
+	<include>/static-assets/textures/int_reflection-int_rm_22@channels=g.jpeg</include>
+	</item>	<item datasource="textures">	<key>/static-assets/textures/grille4_nrml_17.jpeg</key>
+	<value>/static-assets/textures/grille4_nrml_17.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>275201</fileSize_smv>
+	<include>/static-assets/textures/grille4_nrml_17.jpeg</include>
 	</item></textures_o>
 	<createdDate>2023-02-25T06:25:55.099Z</createdDate>
 	<createdDate_dt>2023-02-25T06:25:55.099Z</createdDate_dt>
