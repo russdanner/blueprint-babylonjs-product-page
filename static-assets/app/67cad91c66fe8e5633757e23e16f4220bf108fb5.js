@@ -45,34 +45,7 @@ var createScene = async function () {
         staticTextures.morphTexture = staticTextures.morphShader.createProceduralTexture({ width: 2048, height: 1024 }, scene);
 
         return new Promise((resolve, reject) => {
-            let textureUrls = [
-                "/static-assets/app/texture/device_blackPlastic_baseColor.jpg",
-                "/static-assets/app/texture/device_blackPlastic_ORM.png",
-                "/static-assets/app/texture/device_blackPlastic_normal.png",
-                "/static-assets/app/texture/device_no_clearcoat.png",
-                "/static-assets/app/texture/device_whitePlastic_baseColor.jpg",
-                "/static-assets/app/texture/device_whitePlastic_ORM.png",
-                "/static-assets/app/texture/device_whitePlastic_normal.png",
-                "/static-assets/app/texture/device_no_clearcoat.png",
-                "/static-assets/app/texture/device_wood_baseColor.jpg",
-                "/static-assets/app/texture/device_wood_ORM.png",
-                "/static-assets/app/texture/device_wood_normal.png",
-                "/static-assets/app/texture/device_wood_clearcoat.png",
-                "/static-assets/app/texture/device_light_emissive.png",
-                "/static-assets/app/texture/device_tempScreenUI_emissive.png",
-                "/static-assets/app/texture/ui_battery_inactive.png",
-                "/static-assets/app/texture/ui_calendar_active.png",
-                "/static-assets/app/texture/ui_calendar_inactive.png",
-                "/static-assets/app/texture/ui_contacts_active.png",
-                "/static-assets/app/texture/ui_contacts_inactive.png",
-                "/static-assets/app/texture/ui_music_active.png",
-                "/static-assets/app/texture/ui_music_inactive.png",
-                "/static-assets/app/texture/ui_next_inactive.png",
-                "/static-assets/app/texture/ui_pause_inactive.png",
-                "/static-assets/app/texture/ui_play_inactive.png",
-                "/static-assets/app/texture/ui_previous_inactive.png",
-                "/static-assets/app/texture/ui_wifi_inactive.png"
-            ];
+            let textureUrls = window.textureUrls;
 
             for (let url of textureUrls) {
                 textures.push(new BABYLON.Texture(url, scene, false, false));
