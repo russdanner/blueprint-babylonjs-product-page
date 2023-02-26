@@ -28,13 +28,13 @@
     <script>
         <#assign mod = siteItemService.getSiteItem(contentModel.model_o.item[0].key) />
 
-        window.textureUrls = [<#list mod.textures_o.item as texture>"${texture.key}",</#list>];  
+        window.textureUrls = [
+          <#if  mod.textures_o.item??><#list mod.textures_o.item as texture>"${texture.key}",</#list></#if>
+        ];  
         window.sceneFile = "${mod.modelormesh_o.item[0].key}";
         window.cameraX = ${mod.cameraX_f};
         window.cameraY = ${mod.cameraY_f};
         window.cameraZ = ${mod.cameraZ_f};
-
-         //"/static-assets/app/port_low.glb");  
     </script>
 
     <@crafter.head/>

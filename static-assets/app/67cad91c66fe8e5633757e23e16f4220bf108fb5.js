@@ -23,14 +23,17 @@ var createScene = async function () {
         var light = new BABYLON.HemisphericLight("light1", new BABYLON.Vector3(0, 1, 0), scene);
         light.intensity = 0.7;
 
-        device.file = await BABYLON.SceneLoader.AppendAsync(sceneFile);
+        let modelPath = sceneFile.substring(0, sceneFile.lastIndexOf("/")+1);
+        let modelFileName = sceneFile.substring(sceneFile.lastIndexOf("/")+1);
+
+        device.file = await BABYLON.SceneLoader.AppendAsync(modelPath, modelFileName);
     }    
 
     initScene();
     await loadMeshes();
 
     // show inspector
-    // inspectorActive = false;
+    inspectorActive = false;
     function displayInspector() {
         if (event.keyCode === 78) { // n key to open inspector
             if (inspectorActive) {
