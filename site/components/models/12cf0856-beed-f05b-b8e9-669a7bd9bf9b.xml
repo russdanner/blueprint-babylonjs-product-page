@@ -9,11 +9,9 @@
 	<file-name>12cf0856-beed-f05b-b8e9-669a7bd9bf9b.xml</file-name>
 	<folder-name/>
 	<internal-name>Digital Assistant</internal-name>
-	<modelormesh_o item-list="true">	<item datasource="model">	<key>/static-assets/models/port_low.glb</key>
-	<value>/static-assets/models/port_low.glb</value>
+	<modelormesh_o item-list="true">	<item datasource="existingModel">	<key>/static-assets/models/digital-assistant/port_low.glb</key>
+	<value>/static-assets/models/digital-assistant/port_low.glb</value>
 	<fileType_smv>glb</fileType_smv>
-	<fileSize_smv>2126516</fileSize_smv>
-	<include>/static-assets/models/port_low.glb</include>
 	</item></modelormesh_o>
 	<textures_o item-list="true">	<item datasource="textures">	<key>/static-assets/textures/device_blackplastic_basecolor.jpg</key>
 	<value>/static-assets/textures/device_blackplastic_basecolor.jpg</value>
@@ -138,8 +136,8 @@
 	</item></textures_o>
 	<createdDate>2023-02-24T22:32:52.972Z</createdDate>
 	<createdDate_dt>2023-02-24T22:32:52.972Z</createdDate_dt>
-	<lastModifiedDate>2023-02-26T04:58:31.197Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-02-26T04:58:31.197Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-02-26T07:00:39.182Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-02-26T07:00:39.182Z</lastModifiedDate_dt>
 	<cameraX_f>0</cameraX_f>
 	<cameraY_f>0.6</cameraY_f>
 	<cameraZ_f>0.25</cameraZ_f>
