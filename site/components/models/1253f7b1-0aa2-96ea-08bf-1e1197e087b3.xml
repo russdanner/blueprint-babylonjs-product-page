@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/threedmodel</content-type>
+	<display-template/>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1253</objectGroupId>
+	<objectId>1253f7b1-0aa2-96ea-08bf-1e1197e087b3</objectId>
+	<file-name>1253f7b1-0aa2-96ea-08bf-1e1197e087b3.xml</file-name>
+	<folder-name/>
+	<internal-name>Boombox</internal-name>
+	<modelormesh_o item-list="true">	<item datasource="existingModel">	<key>/static-assets/models/boombox/BoomBox.gltf</key>
+	<value>/static-assets/models/boombox/BoomBox.gltf</value>
+	<fileType_smv>gltf</fileType_smv>
+	</item></modelormesh_o>
+	<textures_o item-list="true"/>
+	<cameraX_f>0</cameraX_f>
+	<cameraY_f>0</cameraY_f>
+	<cameraZ_f>0</cameraZ_f>
+	<createdDate>2023-02-26T06:29:25.577Z</createdDate>
+	<createdDate_dt>2023-02-26T06:29:25.577Z</createdDate_dt>
+	<lastModifiedDate>2023-02-26T06:29:25.577Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-02-26T06:29:25.577Z</lastModifiedDate_dt>
+</component>
