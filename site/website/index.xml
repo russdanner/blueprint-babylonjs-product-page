@@ -13,8 +13,8 @@
 	<folder-name/>
 	<createdDate>2017-01-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2023-02-26T06:55:49.079Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-02-26T06:55:49.079Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-02-26T06:57:43.299Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-02-26T06:57:43.299Z</lastModifiedDate_dt>
 	<disabled>false</disabled>
 	<pageSections_o item-list="true">	<item inline="true">	<key>977f224b-2487-5c61-3564-fdfe56bafbee</key>
 	<value>Interactive Product Pages</value>
@@ -132,9 +132,9 @@
       </component>
 	</item></pageSections_o>
 	<productTitle_s>eCommerce Product Demo</productTitle_s>
-	<model_o item-list="true">	<item>	<key>/site/components/models/2a4a1f6f-2b48-19a7-e6f1-539787ffc35f.xml</key>
-	<value>Mercedes AMG GT</value>
-	<include>/site/components/models/2a4a1f6f-2b48-19a7-e6f1-539787ffc35f.xml</include>
+	<model_o item-list="true">	<item>	<key>/site/components/models/12cf0856-beed-f05b-b8e9-669a7bd9bf9b.xml</key>
+	<value>Digital Assistant</value>
+	<include>/site/components/models/12cf0856-beed-f05b-b8e9-669a7bd9bf9b.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></model_o>
 </page>
