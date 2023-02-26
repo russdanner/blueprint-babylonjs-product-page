@@ -7,11 +7,12 @@ var createScene = async function () {
        scene.useRightHandedSystem = true;
 
         // Configuring camera
-        var camera = new BABYLON.ArcRotateCamera("camera", window.cameraX, window.cameraY, window.cameraZ, BABYLON.Vector3(10, 11, 0), scene);
-        // camera.attachControl(canvas, true);
-        // camera.wheelPrecision = 100.0;
-        // camera.minZ = 0.01;
-        // camera.maxZ = 1000;
+        var camera = new BABYLON.ArcRotateCamera("camera", window.cameraX, window.cameraY, window.cameraZ, BABYLON.Vector3(1, 1, 1), scene);
+         camera.attachControl(canvas, true);
+         camera.fov = window.cameraFOV;
+         //camera.wheelPrecision = 100.0;
+         // camera.minZ = 0.01;
+         // camera.maxZ = 1000;
 
         scene.clearColor = new BABYLON.Color4(0, 0, 0, 0);
     }
