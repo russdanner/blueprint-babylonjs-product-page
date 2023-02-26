@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
+	<savedAsDraft>true</savedAsDraft>
 	<content-type>/component/threedmodel</content-type>
 	<display-template/>
 	<no-template-required>true</no-template-required>
@@ -15,10 +16,10 @@
 	</item></modelormesh_o>
 	<cameraX_f>1</cameraX_f>
 	<cameraY_f>1</cameraY_f>
-	<cameraZ_f>10</cameraZ_f>
+	<cameraZ_f>3</cameraZ_f>
 	<createdDate>2023-02-26T06:29:25.577Z</createdDate>
 	<createdDate_dt>2023-02-26T06:29:25.577Z</createdDate_dt>
-	<lastModifiedDate>2023-02-26T07:34:20.965Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-02-26T07:34:20.965Z</lastModifiedDate_dt>
-	<cameraFOV_f>1</cameraFOV_f>
+	<lastModifiedDate>2023-02-26T07:34:36.685Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-02-26T07:34:36.685Z</lastModifiedDate_dt>
+	<cameraFOV_f>.33</cameraFOV_f>
 </component>
