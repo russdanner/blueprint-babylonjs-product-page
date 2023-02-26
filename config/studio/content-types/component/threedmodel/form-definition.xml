@@ -107,7 +107,7 @@
 						</property>
 						<property>
 							<name>itemManager</name>
-							<value>model</value>
+							<value>model,existingModel</value>
 							<type>datasource:item</type>
 						</property>
 						<property>
@@ -342,7 +342,7 @@
 	<datasources>				<datasource>
 					<type>file-desktop-upload</type>
 					<id>model</id>
-					<title>Model</title>
+					<title>Upload </title>
 					<interface>item</interface>
 					<properties>
 						<property>
