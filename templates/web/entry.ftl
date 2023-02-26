@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Babylon.js Product Page Demo</title>
 
-    <!-- <link rel="stylesheet" href="https://use.typekit.net/pyp7dhw.css"> -->
     <link href="/static-assets/app/styles.css" rel="stylesheet" type="text/css">
 
     <script src="/static-assets/app/pyp7dhw.js"></script>
@@ -16,6 +15,7 @@
 
     <script src="/static-assets/app/babylon.gui.js"></script>
     <script src="/static-assets/app/pep.js"></script>
+    <script src="/static-assets/app/babylon.nodeEditor.js"></script>
 
     <style>
       [touch-action="none"]{ -ms-touch-action: none; touch-action: none; }
@@ -26,39 +26,20 @@
     </style>
 
     <script>
-        window.textureUrls = [
-                "/static-assets/app/texture/device_blackPlastic_baseColor.jpg",
-                "/static-assets/app/texture/device_blackPlastic_ORM.png",
-                "/static-assets/app/texture/device_blackPlastic_normal.png",
-                "/static-assets/app/texture/device_no_clearcoat.png",
-                "/static-assets/app/texture/device_whitePlastic_baseColor.jpg",
-                "/static-assets/app/texture/device_whitePlastic_ORM.png",
-                "/static-assets/app/texture/device_whitePlastic_normal.png",
-                "/static-assets/app/texture/device_no_clearcoat.png",
-                "/static-assets/app/texture/device_wood_baseColor.jpg",
-                "/static-assets/app/texture/device_wood_ORM.png",
-                "/static-assets/app/texture/device_wood_normal.png",
-                "/static-assets/app/texture/device_wood_clearcoat.png",
-                "/static-assets/app/texture/device_light_emissive.png",
-                "/static-assets/app/texture/device_tempScreenUI_emissive.png",
-                "/static-assets/app/texture/ui_battery_inactive.png",
-                "/static-assets/app/texture/ui_calendar_active.png",
-                "/static-assets/app/texture/ui_calendar_inactive.png",
-                "/static-assets/app/texture/ui_contacts_active.png",
-                "/static-assets/app/texture/ui_contacts_inactive.png",
-                "/static-assets/app/texture/ui_music_active.png",
-                "/static-assets/app/texture/ui_music_inactive.png",
-                "/static-assets/app/texture/ui_next_inactive.png",
-                "/static-assets/app/texture/ui_pause_inactive.png",
-                "/static-assets/app/texture/ui_play_inactive.png",
-                "/static-assets/app/texture/ui_previous_inactive.png",
-                "/static-assets/app/texture/ui_wifi_inactive.png"
-            ];    
+        <#assign mod = siteItemService.getSiteItem(contentModel.model_o.item[0].key) />
+
+        window.textureUrls = [<#list mod.textures_o.item as texture>"${texture.key}",</#list>];  
+        window.sceneFile = "${mod.modelormesh_o.item[0].key}";
+        window.cameraX = ${mod.cameraX_f};
+        window.cameraY = ${mod.cameraY_f};
+        window.cameraZ = ${mod.cameraZ_f};
+
+         //"/static-assets/app/port_low.glb");  
     </script>
 
     <@crafter.head/>
   </head>
-  <body data-new-gr-c-s-check-loaded="14.1097.0" data-gr-ext-installed="">
+  <body>
     <@crafter.body_top/>
 
     <canvas id="renderCanvas" touch-action="none" width="1463" height="791" data-engine="Babylon.js v5.47.0" tabindex="1"></canvas> 
