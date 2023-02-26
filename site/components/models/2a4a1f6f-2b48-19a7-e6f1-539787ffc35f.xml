@@ -233,6 +233,9 @@
 	</item></textures_o>
 	<createdDate>2023-02-25T06:25:55.099Z</createdDate>
 	<createdDate_dt>2023-02-25T06:25:55.099Z</createdDate_dt>
-	<lastModifiedDate>2023-02-25T20:13:33.560Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-02-25T20:13:33.560Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-02-26T04:54:42.749Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-02-26T04:54:42.749Z</lastModifiedDate_dt>
+	<cameraX_f>0</cameraX_f>
+	<cameraY_f>0</cameraY_f>
+	<cameraZ_f>-5</cameraZ_f>
 </component>
