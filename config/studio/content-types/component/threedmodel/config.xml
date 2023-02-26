@@ -1,5 +1,5 @@
 <content-type name="/component/threedmodel" is-wcm-type="true">
-	<label>ThreeDModel</label>
+	<label>3D Model</label>
 	<form>/component/threedmodel</form>
 	<form-path>simple</form-path>
 	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
