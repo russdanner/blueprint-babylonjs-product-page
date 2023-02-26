@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
+	<savedAsDraft>true</savedAsDraft>
 	<content-type>/component/threedmodel</content-type>
 	<display-template/>
 	<no-template-required>true</no-template-required>
@@ -15,10 +16,14 @@
 	</item></modelormesh_o>
 	<createdDate>2023-02-24T22:32:52.972Z</createdDate>
 	<createdDate_dt>2023-02-24T22:32:52.972Z</createdDate_dt>
-	<lastModifiedDate>2023-02-26T07:31:52.965Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-02-26T07:31:52.965Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-02-26T19:16:49.941Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-02-26T19:16:49.941Z</lastModifiedDate_dt>
 	<cameraX_f>1</cameraX_f>
 	<cameraY_f>1</cameraY_f>
 	<cameraZ_f>2</cameraZ_f>
 	<cameraFOV_f>.1</cameraFOV_f>
+	<customJavascriptController_o item-list="true">	<item datasource="javascript">	<key>/static-assets/models/digital-assistant/controller.js</key>
+	<value>/static-assets/models/digital-assistant/controller.js</value>
+	<fileType_smv>js</fileType_smv>
+	</item></customJavascriptController_o>
 </component>
