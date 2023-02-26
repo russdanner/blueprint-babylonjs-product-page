@@ -13,12 +13,12 @@
 	<value>/static-assets/models/boombox/BoomBox.gltf</value>
 	<fileType_smv>gltf</fileType_smv>
 	</item></modelormesh_o>
-	<textures_o item-list="true"/>
 	<cameraX_f>1</cameraX_f>
 	<cameraY_f>1</cameraY_f>
 	<cameraZ_f>10</cameraZ_f>
 	<createdDate>2023-02-26T06:29:25.577Z</createdDate>
 	<createdDate_dt>2023-02-26T06:29:25.577Z</createdDate_dt>
-	<lastModifiedDate>2023-02-26T06:52:25.926Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-02-26T06:52:25.926Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-02-26T07:33:48.304Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-02-26T07:33:48.304Z</lastModifiedDate_dt>
+	<cameraFOV_f>.1</cameraFOV_f>
 </component>
