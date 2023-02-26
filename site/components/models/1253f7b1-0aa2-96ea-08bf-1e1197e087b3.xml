@@ -15,10 +15,10 @@
 	</item></modelormesh_o>
 	<textures_o item-list="true"/>
 	<cameraX_f>0</cameraX_f>
-	<cameraY_f>0</cameraY_f>
-	<cameraZ_f>0</cameraZ_f>
+	<cameraY_f>2</cameraY_f>
+	<cameraZ_f>-5</cameraZ_f>
 	<createdDate>2023-02-26T06:29:25.577Z</createdDate>
 	<createdDate_dt>2023-02-26T06:29:25.577Z</createdDate_dt>
-	<lastModifiedDate>2023-02-26T06:29:25.577Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-02-26T06:29:25.577Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-02-26T06:45:57.343Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-02-26T06:45:57.343Z</lastModifiedDate_dt>
 </component>
