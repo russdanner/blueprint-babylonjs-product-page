@@ -365,5 +365,18 @@
 						</property>
 					</properties>
 				</datasource>
+				<datasource>
+					<type>file-browse-repo</type>
+					<id>existingModel</id>
+					<title>Existing Model</title>
+					<interface>item</interface>
+					<properties>
+						<property>
+							<name>repoPath</name>
+							<value>/static-assets/models</value>
+								<type>content-path-input</type>
+						</property>
+					</properties>
+				</datasource>
 	</datasources>
 </form>
