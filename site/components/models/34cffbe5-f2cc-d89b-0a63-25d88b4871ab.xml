@@ -10,9 +10,9 @@
 	<file-name>34cffbe5-f2cc-d89b-0a63-25d88b4871ab.xml</file-name>
 	<folder-name/>
 	<internal-name>ToyCar</internal-name>
-	<modelormesh_o item-list="true">	<item datasource="existingModel">	<key>/static-assets/models/ToyCar/glTF/ToyCar.gltf</key>
-	<value>/static-assets/models/ToyCar/glTF/ToyCar.gltf</value>
-	<fileType_smv>gltf</fileType_smv>
+	<modelormesh_o item-list="true">	<item datasource="existingModel">	<key>/static-assets/models/ToyCar/glTF-Binary/ToyCar.glb</key>
+	<value>/static-assets/models/ToyCar/glTF-Binary/ToyCar.glb</value>
+	<fileType_smv>glb</fileType_smv>
 	</item></modelormesh_o>
 	<customJavascriptController_o item-list="true"/>
 	<cameraX_f>1</cameraX_f>
