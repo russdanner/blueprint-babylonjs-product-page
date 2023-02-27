@@ -1164,8 +1164,8 @@ var deviceCanvasX = async function() {
         node.targetScreenOffset.y-=.07
         node.targetScreenOffset.x+=.15
 
-};
-
+}; 
+ 
 setTimeout(deviceCanvasX, 1000);
    
 
