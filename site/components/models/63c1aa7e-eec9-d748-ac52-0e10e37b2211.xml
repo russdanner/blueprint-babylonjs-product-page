@@ -15,12 +15,12 @@
 	<fileType_smv>gltf</fileType_smv>
 	</item></modelormesh_o>
 	<customJavascriptController_o item-list="true"/>
-	<cameraX_f>0</cameraX_f>
-	<cameraY_f>0</cameraY_f>
-	<cameraZ_f>0</cameraZ_f>
+	<cameraX_f>.1</cameraX_f>
+	<cameraY_f>.1</cameraY_f>
+	<cameraZ_f>.1</cameraZ_f>
 	<cameraFOV_f>.1</cameraFOV_f>
 	<createdDate>2023-02-27T04:40:03.038Z</createdDate>
 	<createdDate_dt>2023-02-27T04:40:03.038Z</createdDate_dt>
-	<lastModifiedDate>2023-02-27T04:40:03.038Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-02-27T04:40:03.038Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-02-27T04:42:22.324Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-02-27T04:42:22.324Z</lastModifiedDate_dt>
 </component>
