@@ -13,8 +13,8 @@
 	<folder-name/>
 	<createdDate>2017-01-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2023-02-27T04:17:24.520Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-02-27T04:17:24.520Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-02-27T04:31:06.003Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-02-27T04:31:06.003Z</lastModifiedDate_dt>
 	<disabled>false</disabled>
 	<pageSections_o item-list="true">	<item inline="true">	<key>977f224b-2487-5c61-3564-fdfe56bafbee</key>
 	<value>Interactive Product Pages</value>
@@ -132,9 +132,9 @@
       </component>
 	</item></pageSections_o>
 	<productTitle_s>eCommerce Product Demo</productTitle_s>
-	<model_o item-list="true">	<item>	<key>/site/components/models/1253f7b1-0aa2-96ea-08bf-1e1197e087b3.xml</key>
-	<value>Boombox</value>
-	<include>/site/components/models/1253f7b1-0aa2-96ea-08bf-1e1197e087b3.xml</include>
+	<model_o item-list="true">	<item>	<key>/site/components/models/34cffbe5-f2cc-d89b-0a63-25d88b4871ab.xml</key>
+	<value>ToyCar</value>
+	<include>/site/components/models/34cffbe5-f2cc-d89b-0a63-25d88b4871ab.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></model_o>
 </page>
