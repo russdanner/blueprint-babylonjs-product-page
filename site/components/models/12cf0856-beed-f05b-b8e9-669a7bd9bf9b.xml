@@ -19,9 +19,9 @@
 	<lastModifiedDate>2023-02-26T21:29:00.875Z</lastModifiedDate>
 	<lastModifiedDate_dt>2023-02-26T21:29:00.875Z</lastModifiedDate_dt>
 	<cameraX_f>1</cameraX_f>
-	<cameraY_f>1</cameraY_f>
-	<cameraZ_f>2</cameraZ_f>
-	<cameraFOV_f>.1</cameraFOV_f>
+	<cameraY_f>-2.4</cameraY_f>
+	<cameraZ_f>2.71</cameraZ_f>
+	<cameraFOV_f>.05</cameraFOV_f>
 	<customJavascriptController_o item-list="true">	<item datasource="javascript">	<key>/static-assets/models/digital-assistant/controller.js</key>
 	<value>/static-assets/models/digital-assistant/controller.js</value>
 	<fileType_smv>js</fileType_smv>

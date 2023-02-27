@@ -44,6 +44,10 @@
 
     <!-- touch-action="none" for best results from PEP -->
     <script src="/static-assets/app/67cad91c66fe8e5633757e23e16f4220bf108fb5.js"></script>
+
+    <#if mod.customJavascriptController_o?? && mod.customJavascriptController_o.item?? >
+      <script src="${mod.customJavascriptController_o.item.key}"></script>
+    </#if>
     
     <div id="header">
       <div class="headerContent">
