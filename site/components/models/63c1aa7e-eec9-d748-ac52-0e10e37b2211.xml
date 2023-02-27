@@ -10,8 +10,8 @@
 	<file-name>63c1aa7e-eec9-d748-ac52-0e10e37b2211.xml</file-name>
 	<folder-name/>
 	<internal-name>StainedGlassLamp</internal-name>
-	<modelormesh_o item-list="true">	<item datasource="existingModel">	<key>/static-assets/models/StainedGlassLamp/glTF-JPG-PNG/StainedGlassLamp.gltf</key>
-	<value>/static-assets/models/StainedGlassLamp/glTF-JPG-PNG/StainedGlassLamp.gltf</value>
+	<modelormesh_o item-list="true">	<item datasource="existingModel">	<key>/static-assets/models/StainedGlassLamp/glTF/StainedGlassLamp.gltf</key>
+	<value>/static-assets/models/StainedGlassLamp/glTF/StainedGlassLamp.gltf</value>
 	<fileType_smv>gltf</fileType_smv>
 	</item></modelormesh_o>
 	<customJavascriptController_o item-list="true"/>
