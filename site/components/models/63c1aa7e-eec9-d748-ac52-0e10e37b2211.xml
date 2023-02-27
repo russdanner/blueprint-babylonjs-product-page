@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<savedAsDraft>true</savedAsDraft>
+	<content-type>/component/threedmodel</content-type>
+	<display-template/>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>63c1</objectGroupId>
+	<objectId>63c1aa7e-eec9-d748-ac52-0e10e37b2211</objectId>
+	<file-name>63c1aa7e-eec9-d748-ac52-0e10e37b2211.xml</file-name>
+	<folder-name/>
+	<internal-name>StainedGlassLamp</internal-name>
+	<modelormesh_o item-list="true">	<item datasource="existingModel">	<key>/static-assets/models/StainedGlassLamp/glTF-JPG-PNG/StainedGlassLamp.gltf</key>
+	<value>/static-assets/models/StainedGlassLamp/glTF-JPG-PNG/StainedGlassLamp.gltf</value>
+	<fileType_smv>gltf</fileType_smv>
+	</item></modelormesh_o>
+	<customJavascriptController_o item-list="true"/>
+	<cameraX_f>0</cameraX_f>
+	<cameraY_f>0</cameraY_f>
+	<cameraZ_f>0</cameraZ_f>
+	<cameraFOV_f>.1</cameraFOV_f>
+	<createdDate>2023-02-27T04:40:03.038Z</createdDate>
+	<createdDate_dt>2023-02-27T04:40:03.038Z</createdDate_dt>
+	<lastModifiedDate>2023-02-27T04:40:03.038Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-02-27T04:40:03.038Z</lastModifiedDate_dt>
+</component>
