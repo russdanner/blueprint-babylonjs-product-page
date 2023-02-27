@@ -16,7 +16,7 @@
 	</item></modelormesh_o>
 	<customJavascriptController_o item-list="true"/>
 	<cameraX_f>1</cameraX_f>
-	<cameraY_f>2.5</cameraY_f>
+	<cameraY_f>2.2</cameraY_f>
 	<cameraZ_f>1</cameraZ_f>
 	<cameraFOV_f>1</cameraFOV_f>
 	<createdDate>2023-02-27T04:40:03.038Z</createdDate>
