@@ -133,9 +133,9 @@
       </component>
 	</item></pageSections_o>
 	<productTitle_s>eCommerce Product Demo</productTitle_s>
-	<model_o item-list="true">	<item>	<key>/site/components/models/1253f7b1-0aa2-96ea-08bf-1e1197e087b3.xml</key>
-	<value>Boombox</value>
-	<include>/site/components/models/1253f7b1-0aa2-96ea-08bf-1e1197e087b3.xml</include>
+	<model_o item-list="true">	<item>	<key>/site/components/models/12cf0856-beed-f05b-b8e9-669a7bd9bf9b.xml</key>
+	<value>Digital Assistant</value>
+	<include>/site/components/models/12cf0856-beed-f05b-b8e9-669a7bd9bf9b.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></model_o>
 </page>
