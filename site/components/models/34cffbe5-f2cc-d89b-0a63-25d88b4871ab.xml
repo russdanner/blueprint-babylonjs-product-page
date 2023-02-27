@@ -15,9 +15,9 @@
 	<fileType_smv>gltf</fileType_smv>
 	</item></modelormesh_o>
 	<customJavascriptController_o item-list="true"/>
-	<cameraX_f>2.1</cameraX_f>
-	<cameraY_f>.1</cameraY_f>
-	<cameraZ_f>.1</cameraZ_f>
+	<cameraX_f>1</cameraX_f>
+	<cameraY_f>1</cameraY_f>
+	<cameraZ_f>1</cameraZ_f>
 	<cameraFOV_f>33</cameraFOV_f>
 	<createdDate>2023-02-27T04:17:54.141Z</createdDate>
 	<createdDate_dt>2023-02-27T04:17:54.141Z</createdDate_dt>
