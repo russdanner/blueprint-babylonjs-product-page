@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/threedmodel</content-type>
+	<display-template/>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>34cf</objectGroupId>
+	<objectId>34cffbe5-f2cc-d89b-0a63-25d88b4871ab</objectId>
+	<file-name>34cffbe5-f2cc-d89b-0a63-25d88b4871ab.xml</file-name>
+	<folder-name/>
+	<internal-name>ToyCar</internal-name>
+	<modelormesh_o item-list="true">	<item datasource="existingModel">	<key>/static-assets/models/ToyCar/glTF/ToyCar.gltf</key>
+	<value>/static-assets/models/ToyCar/glTF/ToyCar.gltf</value>
+	<fileType_smv>gltf</fileType_smv>
+	</item></modelormesh_o>
+	<customJavascriptController_o item-list="true"/>
+	<cameraX_f>0</cameraX_f>
+	<cameraY_f>0</cameraY_f>
+	<cameraZ_f>0</cameraZ_f>
+	<cameraFOV_f>.1</cameraFOV_f>
+	<createdDate>2023-02-27T04:17:54.141Z</createdDate>
+	<createdDate_dt>2023-02-27T04:17:54.141Z</createdDate_dt>
+	<lastModifiedDate>2023-02-27T04:17:54.141Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-02-27T04:17:54.141Z</lastModifiedDate_dt>
+</component>
